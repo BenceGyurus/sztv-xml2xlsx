@@ -6,4 +6,4 @@ the converter add end of every file a `</root>` tag
 .playreport files are converted with this script
 
 ### Run
-> cd convert && rm rf- .DS_Store && cd .. && node converter.js
+`cd convert && rm rf- .DS_Store && cd .. && node converter.js`
