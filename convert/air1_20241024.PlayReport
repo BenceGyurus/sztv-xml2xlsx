@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+<root TimeCodeFormat="10ms" FrameRate="25">
+<item type="Movie" date="2024-10-24" time="00:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="00:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="00:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="01:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="01:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="01:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="02:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="02:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="02:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="03:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="03:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="03:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="04:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="04:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="04:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="05:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="05:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="05:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="06:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="06:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="06:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="07:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="07:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="07:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="08:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="08:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="08:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="09:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="09:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="09:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="10:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="10:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="10:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="11:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="11:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="11:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="12:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="12:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="12:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="13:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="13:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="13:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="14:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="14:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="14:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="15:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="15:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="15:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="16:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="16:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="16:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="17:00:00.00" duration="00:42:21.20" fadeIn="0" file="e:\adasok\241023\muhely241023.mpg" fadeOut="0" realDuration="00:42:21.20" error="0">
+  <movie file="e:\adasok\241023\muhely241023.mpg" duration="00:42:21.20" file_duration="00:42:21.20" />
+</item>
+<item type="Movie" date="2024-10-24" time="17:42:21.20" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Video5" date="2024-10-24" time="17:43:53.20" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="18:00:00.00" duration="00:17:50.16" fadeIn="0" file="e:\adasok\241024\hirado241024.mpg" fadeOut="0" realDuration="00:17:50.16" error="0">
+  <movie file="e:\adasok\241024\hirado241024.mpg" duration="00:17:50.16" file_duration="00:17:50.16" />
+</item>
+<item type="Movie" date="2024-10-24" time="18:17:50.16" duration="00:00:36.64" fadeIn="0" file="e:\adasok\241024\idojaras241024.mpg" fadeOut="0" realDuration="00:00:36.64" error="0">
+  <movie file="e:\adasok\241024\idojaras241024.mpg" duration="00:00:36.64" file_duration="00:00:36.64" />
+</item>
+<item type="Movie" date="2024-10-24" time="18:18:26.80" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Movie" date="2024-10-24" time="18:19:58.80" duration="00:32:06.56" fadeIn="0" file="e:\adasok\241024\kozrend241017.mpg" fadeOut="0" realDuration="00:32:06.56" error="0">
+  <movie file="e:\adasok\241024\kozrend241017.mpg" duration="00:32:06.56" file_duration="00:32:06.56" />
+</item>
+<item type="Video5" date="2024-10-24" time="18:52:05.36" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="19:00:00.00" duration="00:17:50.16" fadeIn="0" file="e:\adasok\241024\hirado241024.mpg" fadeOut="0" realDuration="00:17:50.16" error="0">
+  <movie file="e:\adasok\241024\hirado241024.mpg" duration="00:17:50.16" file_duration="00:17:50.16" />
+</item>
+<item type="Movie" date="2024-10-24" time="19:17:50.16" duration="00:00:36.64" fadeIn="0" file="e:\adasok\241024\idojaras241024.mpg" fadeOut="0" realDuration="00:00:36.64" error="0">
+  <movie file="e:\adasok\241024\idojaras241024.mpg" duration="00:00:36.64" file_duration="00:00:36.64" />
+</item>
+<item type="Movie" date="2024-10-24" time="19:18:26.80" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Movie" date="2024-10-24" time="19:19:58.80" duration="00:32:06.56" fadeIn="0" file="e:\adasok\241024\kozrend241017.mpg" fadeOut="0" realDuration="00:32:06.56" error="0">
+  <movie file="e:\adasok\241024\kozrend241017.mpg" duration="00:32:06.56" file_duration="00:32:06.56" />
+</item>
+<item type="Video5" date="2024-10-24" time="19:52:05.36" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="20:00:00.00" duration="00:17:50.16" fadeIn="0" file="e:\adasok\241024\hirado241024.mpg" fadeOut="0" realDuration="00:17:50.16" error="0">
+  <movie file="e:\adasok\241024\hirado241024.mpg" duration="00:17:50.16" file_duration="00:17:50.16" />
+</item>
+<item type="Movie" date="2024-10-24" time="20:17:50.16" duration="00:00:36.64" fadeIn="0" file="e:\adasok\241024\idojaras241024.mpg" fadeOut="0" realDuration="00:00:36.64" error="0">
+  <movie file="e:\adasok\241024\idojaras241024.mpg" duration="00:00:36.64" file_duration="00:00:36.64" />
+</item>
+<item type="Movie" date="2024-10-24" time="20:18:26.80" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Movie" date="2024-10-24" time="20:19:58.80" duration="00:32:06.56" fadeIn="0" file="e:\adasok\241024\kozrend241017.mpg" fadeOut="0" realDuration="00:32:06.56" error="0">
+  <movie file="e:\adasok\241024\kozrend241017.mpg" duration="00:32:06.56" file_duration="00:32:06.56" />
+</item>
+<item type="Video5" date="2024-10-24" time="20:52:05.36" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="21:00:00.00" duration="00:17:50.16" fadeIn="0" file="e:\adasok\241024\hirado241024.mpg" fadeOut="0" realDuration="00:17:50.16" error="0">
+  <movie file="e:\adasok\241024\hirado241024.mpg" duration="00:17:50.16" file_duration="00:17:50.16" />
+</item>
+<item type="Movie" date="2024-10-24" time="21:17:50.16" duration="00:00:36.64" fadeIn="0" file="e:\adasok\241024\idojaras241024.mpg" fadeOut="0" realDuration="00:00:36.64" error="0">
+  <movie file="e:\adasok\241024\idojaras241024.mpg" duration="00:00:36.64" file_duration="00:00:36.64" />
+</item>
+<item type="Movie" date="2024-10-24" time="21:18:26.80" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Movie" date="2024-10-24" time="21:19:58.80" duration="00:32:06.56" fadeIn="0" file="e:\adasok\241024\kozrend241017.mpg" fadeOut="0" realDuration="00:32:06.56" error="0">
+  <movie file="e:\adasok\241024\kozrend241017.mpg" duration="00:32:06.56" file_duration="00:32:06.56" />
+</item>
+<item type="Video5" date="2024-10-24" time="21:52:05.36" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="22:00:00.00" duration="00:17:50.16" fadeIn="0" file="e:\adasok\241024\hirado241024.mpg" fadeOut="0" realDuration="00:17:50.16" error="0">
+  <movie file="e:\adasok\241024\hirado241024.mpg" duration="00:17:50.16" file_duration="00:17:50.16" />
+</item>
+<item type="Movie" date="2024-10-24" time="22:17:50.16" duration="00:00:36.64" fadeIn="0" file="e:\adasok\241024\idojaras241024.mpg" fadeOut="0" realDuration="00:00:36.64" error="0">
+  <movie file="e:\adasok\241024\idojaras241024.mpg" duration="00:00:36.64" file_duration="00:00:36.64" />
+</item>
+<item type="Movie" date="2024-10-24" time="22:18:26.80" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Movie" date="2024-10-24" time="22:19:58.80" duration="00:32:06.56" fadeIn="0" file="e:\adasok\241024\kozrend241017.mpg" fadeOut="0" realDuration="00:32:06.56" error="0">
+  <movie file="e:\adasok\241024\kozrend241017.mpg" duration="00:32:06.56" file_duration="00:32:06.56" />
+</item>
+<item type="Video5" date="2024-10-24" time="22:52:05.36" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-10-24" time="23:00:00.00" duration="00:17:50.16" fadeIn="0" file="e:\adasok\241024\hirado241024.mpg" fadeOut="0" realDuration="00:17:50.16" error="0">
+  <movie file="e:\adasok\241024\hirado241024.mpg" duration="00:17:50.16" file_duration="00:17:50.16" />
+</item>
+<item type="Movie" date="2024-10-24" time="23:17:50.16" duration="00:00:36.64" fadeIn="0" file="e:\adasok\241024\idojaras241024.mpg" fadeOut="0" realDuration="00:00:36.64" error="0">
+  <movie file="e:\adasok\241024\idojaras241024.mpg" duration="00:00:36.64" file_duration="00:00:36.64" />
+</item>
+<item type="Movie" date="2024-10-24" time="23:18:26.80" duration="00:01:32.00" fadeIn="0" file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" fadeOut="0" realDuration="00:01:32.00" error="0">
+  <movie file="e:\adasok\241023\BSST bemutató_jó nyílt napokkal.mp4" duration="00:01:32.00" file_duration="00:01:32.00" />
+</item>
+<item type="Movie" date="2024-10-24" time="23:19:58.80" duration="00:32:06.56" fadeIn="0" file="e:\adasok\241024\kozrend241017.mpg" fadeOut="0" realDuration="00:32:06.56" error="0">
+  <movie file="e:\adasok\241024\kozrend241017.mpg" duration="00:32:06.56" file_duration="00:32:06.56" />
+</item>
+<item type="Video5" date="2024-10-24" time="23:52:05.36" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>

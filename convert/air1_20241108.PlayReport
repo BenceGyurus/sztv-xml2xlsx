@@ -1,0 +1,309 @@
+<?xml version="1.0" ?>
+<root TimeCodeFormat="10ms" FrameRate="25">
+<item type="Movie" date="2024-11-08" time="00:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="00:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="00:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="00:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="01:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="01:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="01:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="01:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="02:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="02:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="02:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="02:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="03:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="03:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="03:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="03:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="04:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="04:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="04:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="04:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="05:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="05:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="05:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="05:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="06:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="06:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="06:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="06:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="07:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="07:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="07:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="07:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="08:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="08:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="08:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="08:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="09:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="09:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="09:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="09:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="10:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="10:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="10:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="10:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="11:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="11:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="11:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="11:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="12:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="12:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="12:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="12:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="13:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="13:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="13:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="13:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="14:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="14:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="14:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="14:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="15:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="15:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="15:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="15:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="16:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="16:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="16:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="16:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="17:00:00.00" duration="00:16:27.96" fadeIn="0" file="e:\adasok\241107\hirado241107.mpg" fadeOut="0" realDuration="00:16:27.96" error="0">
+  <movie file="e:\adasok\241107\hirado241107.mpg" duration="00:16:27.96" file_duration="00:16:27.96" />
+</item>
+<item type="Movie" date="2024-11-08" time="17:16:27.96" duration="00:00:32.32" fadeIn="0" file="e:\adasok\241107\idojaras241107.mpg" fadeOut="0" realDuration="00:00:32.32" error="0">
+  <movie file="e:\adasok\241107\idojaras241107.mpg" duration="00:00:32.32" file_duration="00:00:32.32" />
+</item>
+<item type="Movie" date="2024-11-08" time="17:17:00.28" duration="00:41:13.28" fadeIn="0" file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" fadeOut="0" realDuration="00:41:13.28" error="0">
+  <movie file="e:\adasok\241107\mestersegemcimere241031_simon_jozsef_TV.mpg" duration="00:41:13.28" file_duration="00:41:13.28" />
+</item>
+<item type="Video5" date="2024-11-08" time="17:58:13.56" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="18:00:00.00" duration="00:14:30.04" fadeIn="0" file="e:\adasok\241108\hirado241108.mpg" fadeOut="0" realDuration="00:14:30.04" error="0">
+  <movie file="e:\adasok\241108\hirado241108.mpg" duration="00:14:30.04" file_duration="00:14:30.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="18:14:30.04" duration="00:00:39.68" fadeIn="0" file="e:\adasok\241108\idojaras241108.mpg" fadeOut="0" realDuration="00:00:39.68" error="0">
+  <movie file="e:\adasok\241108\idojaras241108.mpg" duration="00:00:39.68" file_duration="00:00:39.68" />
+</item>
+<item type="Movie" date="2024-11-08" time="18:15:09.72" duration="00:01:49.04" fadeIn="0" file="e:\adasok\241108\reklam1008.mpg" fadeOut="0" realDuration="00:01:49.04" error="0">
+  <movie file="e:\adasok\241108\reklam1008.mpg" duration="00:01:49.04" file_duration="00:01:49.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="18:16:58.76" duration="00:30:56.52" fadeIn="0" file="e:\adasok\241108\vasikal241108.mpg" fadeOut="0" realDuration="00:30:56.52" error="0">
+  <movie file="e:\adasok\241108\vasikal241108.mpg" duration="00:30:56.52" file_duration="00:30:56.52" />
+</item>
+<item type="Video5" date="2024-11-08" time="18:47:55.28" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="TitleObject" name="infotv_csakzene" title="sztvlogo.infotv_csakzene.SLTitleTsk" task="d:\Users\OnAir\Desktop\sztv_logo_2012\sztvlogo.infotv_csakzene.SLTitleTsk" date="2024-11-08" time="18:16:58.76" fadeIn="0" fadeOut="0" realDuration="00:37:22.43" error="0" />
+<item type="Movie" date="2024-11-08" time="19:00:00.00" duration="00:14:30.04" fadeIn="0" file="e:\adasok\241108\hirado241108.mpg" fadeOut="0" realDuration="00:14:30.04" error="0">
+  <movie file="e:\adasok\241108\hirado241108.mpg" duration="00:14:30.04" file_duration="00:14:30.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="19:14:30.04" duration="00:00:39.68" fadeIn="0" file="e:\adasok\241108\idojaras241108.mpg" fadeOut="0" realDuration="00:00:39.68" error="0">
+  <movie file="e:\adasok\241108\idojaras241108.mpg" duration="00:00:39.68" file_duration="00:00:39.68" />
+</item>
+<item type="Movie" date="2024-11-08" time="19:15:09.72" duration="00:01:49.04" fadeIn="0" file="e:\adasok\241108\reklam1008.mpg" fadeOut="0" realDuration="00:01:49.04" error="0">
+  <movie file="e:\adasok\241108\reklam1008.mpg" duration="00:01:49.04" file_duration="00:01:49.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="19:16:58.76" duration="00:30:56.52" fadeIn="0" file="e:\adasok\241108\vasikal241108.mpg" fadeOut="0" realDuration="00:30:56.52" error="0">
+  <movie file="e:\adasok\241108\vasikal241108.mpg" duration="00:30:56.52" file_duration="00:30:56.52" />
+</item>
+<item type="Video5" date="2024-11-08" time="19:47:55.28" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="20:00:00.00" duration="00:14:30.04" fadeIn="0" file="e:\adasok\241108\hirado241108.mpg" fadeOut="0" realDuration="00:14:30.04" error="0">
+  <movie file="e:\adasok\241108\hirado241108.mpg" duration="00:14:30.04" file_duration="00:14:30.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="20:14:30.04" duration="00:00:39.68" fadeIn="0" file="e:\adasok\241108\idojaras241108.mpg" fadeOut="0" realDuration="00:00:39.68" error="0">
+  <movie file="e:\adasok\241108\idojaras241108.mpg" duration="00:00:39.68" file_duration="00:00:39.68" />
+</item>
+<item type="Movie" date="2024-11-08" time="20:15:09.72" duration="00:01:49.04" fadeIn="0" file="e:\adasok\241108\reklam1008.mpg" fadeOut="0" realDuration="00:01:49.04" error="0">
+  <movie file="e:\adasok\241108\reklam1008.mpg" duration="00:01:49.04" file_duration="00:01:49.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="20:16:58.76" duration="00:30:56.52" fadeIn="0" file="e:\adasok\241108\vasikal241108.mpg" fadeOut="0" realDuration="00:30:56.52" error="0">
+  <movie file="e:\adasok\241108\vasikal241108.mpg" duration="00:30:56.52" file_duration="00:30:56.52" />
+</item>
+<item type="Video5" date="2024-11-08" time="20:47:55.28" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="21:00:00.00" duration="00:14:30.04" fadeIn="0" file="e:\adasok\241108\hirado241108.mpg" fadeOut="0" realDuration="00:14:30.04" error="0">
+  <movie file="e:\adasok\241108\hirado241108.mpg" duration="00:14:30.04" file_duration="00:14:30.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="21:14:30.04" duration="00:00:39.68" fadeIn="0" file="e:\adasok\241108\idojaras241108.mpg" fadeOut="0" realDuration="00:00:39.68" error="0">
+  <movie file="e:\adasok\241108\idojaras241108.mpg" duration="00:00:39.68" file_duration="00:00:39.68" />
+</item>
+<item type="Movie" date="2024-11-08" time="21:15:09.72" duration="00:01:49.04" fadeIn="0" file="e:\adasok\241108\reklam1008.mpg" fadeOut="0" realDuration="00:01:49.04" error="0">
+  <movie file="e:\adasok\241108\reklam1008.mpg" duration="00:01:49.04" file_duration="00:01:49.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="21:16:58.76" duration="00:30:56.52" fadeIn="0" file="e:\adasok\241108\vasikal241108.mpg" fadeOut="0" realDuration="00:30:56.52" error="0">
+  <movie file="e:\adasok\241108\vasikal241108.mpg" duration="00:30:56.52" file_duration="00:30:56.52" />
+</item>
+<item type="Video5" date="2024-11-08" time="21:47:55.28" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="22:00:00.00" duration="00:14:30.04" fadeIn="0" file="e:\adasok\241108\hirado241108.mpg" fadeOut="0" realDuration="00:14:30.04" error="0">
+  <movie file="e:\adasok\241108\hirado241108.mpg" duration="00:14:30.04" file_duration="00:14:30.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="22:14:30.04" duration="00:00:39.68" fadeIn="0" file="e:\adasok\241108\idojaras241108.mpg" fadeOut="0" realDuration="00:00:39.68" error="0">
+  <movie file="e:\adasok\241108\idojaras241108.mpg" duration="00:00:39.68" file_duration="00:00:39.68" />
+</item>
+<item type="Movie" date="2024-11-08" time="22:15:09.72" duration="00:01:49.04" fadeIn="0" file="e:\adasok\241108\reklam1008.mpg" fadeOut="0" realDuration="00:01:49.04" error="0">
+  <movie file="e:\adasok\241108\reklam1008.mpg" duration="00:01:49.04" file_duration="00:01:49.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="22:16:58.76" duration="00:30:56.52" fadeIn="0" file="e:\adasok\241108\vasikal241108.mpg" fadeOut="0" realDuration="00:30:56.52" error="0">
+  <movie file="e:\adasok\241108\vasikal241108.mpg" duration="00:30:56.52" file_duration="00:30:56.52" />
+</item>
+<item type="Video5" date="2024-11-08" time="22:47:55.28" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
+<item type="Movie" date="2024-11-08" time="23:00:00.00" duration="00:14:30.04" fadeIn="0" file="e:\adasok\241108\hirado241108.mpg" fadeOut="0" realDuration="00:14:30.04" error="0">
+  <movie file="e:\adasok\241108\hirado241108.mpg" duration="00:14:30.04" file_duration="00:14:30.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="23:14:30.04" duration="00:00:39.68" fadeIn="0" file="e:\adasok\241108\idojaras241108.mpg" fadeOut="0" realDuration="00:00:39.68" error="0">
+  <movie file="e:\adasok\241108\idojaras241108.mpg" duration="00:00:39.68" file_duration="00:00:39.68" />
+</item>
+<item type="Movie" date="2024-11-08" time="23:15:09.72" duration="00:01:49.04" fadeIn="0" file="e:\adasok\241108\reklam1008.mpg" fadeOut="0" realDuration="00:01:49.04" error="0">
+  <movie file="e:\adasok\241108\reklam1008.mpg" duration="00:01:49.04" file_duration="00:01:49.04" />
+</item>
+<item type="Movie" date="2024-11-08" time="23:16:58.76" duration="00:30:56.52" fadeIn="0" file="e:\adasok\241108\vasikal241108.mpg" fadeOut="0" realDuration="00:30:56.52" error="0">
+  <movie file="e:\adasok\241108\vasikal241108.mpg" duration="00:30:56.52" file_duration="00:30:56.52" />
+</item>
+<item type="Video5" date="2024-11-08" time="23:47:55.28" duration="00:00:01.00" fadeIn="0" fadeOut="0" realDuration="00:00:01.00" error="0">
+  <live channel="5" duration="00:00:01.00" title="Víztorony" />
+</item>
